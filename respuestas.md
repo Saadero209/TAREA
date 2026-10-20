@@ -67,6 +67,8 @@ Gracias a la función local History
 
 Preguntas 11
 ¿Cuántos commits tiene main en total? ¿Cuántos son commits de merge?
-
+6
+2
 
 ¿Qué commit introdujo la validación del rango? Indica los 7 primeros caracteres de su hash.
+2b8c543f
